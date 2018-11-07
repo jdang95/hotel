@@ -26,10 +26,10 @@ var details2 = parkHotel.name + ' rooms: ';
 var elHotel2 = document.getElementById('hotel2');
 elHotel2.textContent = details2;
 
-var details2 = DangHotel.name + ' rooms: ';
-    details2 += DangHotel.checkAvailability();
-var elHotel2 = document.getElementById('hotel3');
-elHotel3.textContent = details2;
+var details3 = DangHotel.name + ' rooms: ';
+    details3 += DangHotel.checkAvailability();
+var elHotel3 = document.getElementById('hotel3');
+elHotel3.textContent = details3;
 
 
 /* 

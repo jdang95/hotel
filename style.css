@@ -21,7 +21,7 @@ font-family: 'AlexBrushRegular';
   font-size: 1800%;
     text-align: center;
   color: white;
-   position: absolute ;
+   position: fixed ;
     left: 500px;
     bottom: 1000px;
 }
